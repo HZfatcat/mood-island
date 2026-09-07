@@ -1,0 +1,5 @@
+.workbuddy/
+*.log
+.DS_Store
+Thumbs.db
+_preview/
